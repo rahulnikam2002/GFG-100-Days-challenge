@@ -21,3 +21,5 @@ class Solution {
         return n*(n-1)+2;
     }
 };
+
+// Profile Link - https://auth.geeksforgeeks.org/user/rahulnikam/practice
