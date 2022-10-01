@@ -50,7 +50,7 @@ class Solution
         temp.pop_back();
      }
 
-     (temp.begin(), temp.end());
+     reverse(temp.begin(), temp.end());
      return temp;
     }
 };
